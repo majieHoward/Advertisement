@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "F:\\workhard\\code\\github\\android\\Advertisement\\library\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 70,
+                    "endOffset": 121
+                },
+                "from": {
+                    "file": "F:\\workhard\\code\\github\\android\\Advertisement\\library\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endColumn": 70,
+                        "endOffset": 424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 72,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "F:\\workhard\\code\\github\\android\\Advertisement\\library\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 72,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 199,
+                    "endColumn": 70,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "F:\\workhard\\code\\github\\android\\Advertisement\\library\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 70,
+                        "endOffset": 658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 66,
+                    "endOffset": 332
+                },
+                "from": {
+                    "file": "F:\\workhard\\code\\github\\android\\Advertisement\\library\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 66,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 337,
+                    "endColumn": 77,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "F:\\workhard\\code\\github\\android\\Advertisement\\library\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endColumn": 77,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 75,
+                    "endOffset": 486
+                },
+                "from": {
+                    "file": "F:\\workhard\\code\\github\\android\\Advertisement\\library\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 75,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 491,
+                    "endColumn": 74,
+                    "endOffset": 561
+                },
+                "from": {
+                    "file": "F:\\workhard\\code\\github\\android\\Advertisement\\library\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 129,
+                        "endColumn": 74,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 566,
+                    "endColumn": 75,
+                    "endOffset": 637
+                },
+                "from": {
+                    "file": "F:\\workhard\\code\\github\\android\\Advertisement\\library\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 75,
+                        "endOffset": 503
+                    }
+                }
+            }
+        ]
+    }
+]
